@@ -12,4 +12,3 @@ main = do
     let out = newton 1
     print out
     print . length $ out
-

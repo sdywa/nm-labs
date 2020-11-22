@@ -12,4 +12,3 @@ main = do
     let out = bis 1 2
     print out
     print . length $ out
-
