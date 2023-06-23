@@ -1,3 +1,2 @@
-# My works for numerical methods
-
-### 42.
+# nm-labs
+My works for numerical methods
